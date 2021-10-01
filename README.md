@@ -1,11 +1,5 @@
 # **READ ME FIRST!!!**
 
-## UPDATE
-As many of you may know, discord.py is no longer going to be updated, but... this resp will
-
-It is being moved to [This New Respritory](https://github.com/Apraxed/DiscordBotBasics-2.0) so that this one can be saved, this respritory will be archived in the not-so-distant future
-
-
 Discord Bot Basics
 =
 A beginners guide to [discord.py](https://github.com/Rapptz/discord.py) by [Danny (aka Rapptz)](https://github.com/Rapptz)
