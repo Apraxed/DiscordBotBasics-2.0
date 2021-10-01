@@ -96,3 +96,5 @@ async def embed(ctx):
 
 ### Everything added
 ![bot online](/images/all_stuff_so_far.png)
+
+Now, head to ![setup.md](/setup.md) to set the bot up!
