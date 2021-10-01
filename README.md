@@ -2,7 +2,7 @@
 
 Discord Bot Basics
 =
-A beginners guide to [discord.py](https://github.com/Rapptz/discord.py) by [Danny (aka Rapptz)](https://github.com/Rapptz)
+A beginners guide to [disnake](https://github.com/EQUENOS/disnake) 
 
 ([click this for the 1-file version](https://pastebin.com/raw/nqAE8ye1))
 
