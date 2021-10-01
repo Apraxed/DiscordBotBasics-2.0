@@ -23,7 +23,7 @@ or run `pip install dislash`
 ## What everything means
 
 ```py
-import dislash
+import disnake
 from disnake.ext import commands
 import config, commands_config
 import os
