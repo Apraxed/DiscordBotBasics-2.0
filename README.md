@@ -1,3 +1,5 @@
+**ARCHIVED**
+
 # **READ ME FIRST!!!**
 
 Discord Bot Basics
